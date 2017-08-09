@@ -14,7 +14,7 @@ Unfocused musings through our data looking for an idea
     <tr>
         <td><a href="apology_emails_conversion_rates.ipynb">apology_emails_conversion_rates.ipynb</a></td>
         <td>CS</td>
-        <td>[alt text](https://img.shields.io/badge/Analytics-%20%20%20%20%20%20%20%20-e6194b.svg)</td>
+        <td>![alt text](https://img.shields.io/badge/Analytics-%20%20%20%20%20%20%20%20-e6194b.svg)</td>
         <td>May 19, 2017</td>
         <td>Explores the conversion rates for customers that made a purchase after being sent an apology email in Q4 vs. those that weren't sent an apology email</td>
     </tr>
