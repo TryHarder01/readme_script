@@ -10,10 +10,9 @@ Unfocused musings through our data looking for an idea
         <th>Description</th>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/Analytics-%20%20%20%20%20%20%20%20%20%20-e6194b.svg"></td>
+        <td><img src="https://img.shields.io/badge/CS-%20%20%20%20%20%20%20%20%20%20-e6194b.svg"></td>
         <td><a href="apology_emails_conversion_rates.ipynb">apology_emails_conversion_rates.ipynb</a></td>
-        <td>CS</td>
-
+        <td> </td>
         <td>Explores the conversion rates for customers that made a purchase after being sent an apology email in Q4 vs. those that weren't sent an apology email</td>
     </tr>
     <tr>
