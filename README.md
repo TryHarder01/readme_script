@@ -1,4 +1,5 @@
 ## Deparments
+<p align="center">
 <img src="https://img.shields.io/badge/Accounting-%20%20%20%20%20%20%20%20%20%20-e6194b.svg">
 <img src="https://img.shields.io/badge/Analytics-%20%20%20%20%20%20%20%20%20%20-3cb44b.svg">
 <img src="https://img.shields.io/badge/Creative-%20%20%20%20%20%20%20%20%20%20-ffe119.svg">
@@ -12,3 +13,4 @@
 <img src="https://img.shields.io/badge/Purch-%20%20%20%20%20%20%20%20%20%20-008080.svg">
 <img src="https://img.shields.io/badge/Security-%20%20%20%20%20%20%20%20%20%20-e6beff.svg">
 <img src="https://img.shields.io/badge/Tech-%20%20%20%20%20%20%20%20%20%20-aa6e28.svg">
+</p>
